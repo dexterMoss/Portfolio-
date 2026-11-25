@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Namami Gupta</title>
+<meta name="description" content="Namami Gupta: AI & ML Enthusiast, Software Developer, Tech Explorer.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <nav class="nav" aria-label="Sections">
+    <a href="#about">About</a>
+    <a href="#education">Education</a>
+    <a href="#technical-skills">Technical Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <header class="hero">
+    <h1>Namami Gupta</h1>
+    <p class="headline">AI &amp; ML Enthusiast | Software Developer | Tech Explorer</p>
+    <p class="intro">Hello, I’m Namami Gupta, a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning.</p>
+    <p class="intro">I enjoy transforming creative ideas into practical digital solutions through programming, web development, and emerging technologies. I’m passionate about learning, experimenting, and building projects that solve real-world problems.</p>
+    <p class="closing">Turning Ideas into Code, and Code into Innovation.</p>
+    <div class="actions">
+      <a class="btn primary" href="#projects">Explore My Work</a>
+      <a class="btn" href="Namami_Gupta_Resume.pdf" download="Namami_Gupta_Resume.pdf" id="resume">Download Resume</a>
+      <a class="btn" href="#contact">Contact Me</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="block" id="about">
+      <h2>About</h2>
+      <div>
+        <p>I’m Namami Gupta, currently pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.</p>
+        <p>I’m an enthusiastic learner and aspiring software developer with a strong interest in programming, web development, and artificial intelligence. I have knowledge of Python, Java, C, HTML, CSS, and JavaScript.</p>
+        <p>I enjoy exploring new technologies, developing creative projects, solving programming challenges, and continuously expanding my technical knowledge.</p>
+        <p>I believe that every line of code is an opportunity to learn something new and every project is a step towards becoming a better developer.</p>
+
+        <h3>My Interests</h3>
+        <ul class="interests">
+          <li>Artificial Intelligence &amp; Machine Learning</li>
+          <li>Software Development</li>
+          <li>Web Development</li>
+          <li>Data Structures and Algorithms</li>
+          <li>Problem Solving</li>
+          <li>Exploring Emerging Technologies</li>
+        </ul>
+
+        <h3>My Goal</h3>
+        <p>My goal is to become a skilled software developer and AI/ML engineer by combining strong programming fundamentals, practical experience, and innovative thinking to create meaningful technological solutions.</p>
+      </div>
+    </section>
+
+    <section class="block" id="education">
+      <h2>Education</h2>
+      <div>
+        <article class="project">
+          <h3>Bachelor of Technology (B.Tech)</h3>
+          <p class="edu-meta major">Computer Science and Engineering | Artificial Intelligence &amp; Machine Learning</p>
+          <p class="edu-meta">Shri Ramswaroop Memorial University (SRMU)</p>
+          <p class="edu-meta">Currently Pursuing</p>
+          <p class="desc">Developing a strong foundation in computer science, programming, software development, data structures, and artificial intelligence.</p>
+          <p class="label">Academic Focus</p>
+          <ul class="interests">
+            <li>Programming and Problem Solving</li>
+            <li>Data Structures and Algorithms</li>
+            <li>Object-Oriented Programming</li>
+            <li>Artificial Intelligence and Machine Learning</li>
+            <li>Database Management Systems</li>
+            <li>Web Technologies</li>
+          </ul>
+          <p class="label">Learning Beyond Academics</p>
+          <p class="edu-text">Apart from academic learning, I actively explore programming, participate in technical activities, develop practical projects, and experiment with emerging technologies to strengthen my development skills.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="block" id="technical-skills">
+      <h2>Technical Skills</h2>
+      <div class="tech">
+        <div class="group">
+          <h3>Programming Languages</h3>
+          <ul class="skills">
+            <li><strong>Python</strong><span>Knowledge of Python programming, logic building, and problem-solving.</span></li>
+            <li><strong>Java</strong><span>Understanding of object-oriented programming, classes, objects, and basic DSA implementations.</span></li>
+            <li><strong>C</strong><span>Understanding of programming fundamentals, pointers, arrays, loops, and functions.</span></li>
+          </ul>
+        </div>
+
+        <div class="group">
+          <h3>Web Development</h3>
+          <ul class="skills">
+            <li><strong>HTML5</strong><span>Creating structured and semantic web pages.</span></li>
+            <li><strong>CSS3</strong><span>Designing attractive layouts, styling elements, and creating responsive interfaces.</span></li>
+            <li><strong>JavaScript</strong><span>Adding interactive functionality and dynamic behaviour to websites.</span></li>
+          </ul>
+        </div>
+
+        <div class="group">
+          <h3>AI &amp; Machine Learning</h3>
+          <p>Interested in exploring artificial intelligence and machine learning concepts, understanding intelligent systems, and developing technology-driven solutions.</p>
+          <p class="label">Areas of interest</p>
+          <ul class="interests">
+            <li>Artificial Intelligence Fundamentals</li>
+            <li>Machine Learning Fundamentals</li>
+            <li>Data Analysis</li>
+            <li>Intelligent Applications</li>
+            <li>Natural Language Processing</li>
+          </ul>
+        </div>
+
+        <div class="group">
+          <h3>Developer Tools</h3>
+          <ul class="skills">
+            <li><strong>VS Code</strong><span>Code editing and development environment.</span></li>
+            <li><strong>Git</strong><span>Version control and source code management.</span></li>
+            <li><strong>GitHub</strong><span>Hosting and managing programming projects.</span></li>
+            <li><strong>IntelliJ IDEA</strong><span>Java development environment.</span></li>
+            <li><strong>Jupyter Notebook</strong><span>Interactive Python programming and experimentation.</span></li>
+          </ul>
+        </div>
+
+        <div class="group">
+          <h3>Core Computer Science</h3>
+          <ul class="interests">
+            <li>Data Structures and Algorithms</li>
+            <li>Object-Oriented Programming</li>
+            <li>Database Management Systems</li>
+            <li>Computer Networks Fundamentals</li>
+            <li>Operating Systems Fundamentals</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="projects">
+      <h2>Projects</h2>
+      <div>
+        <article class="project">
+          <p class="cat">Web Development</p>
+          <h3>Sonexa – Personal Music Player</h3>
+          <p class="desc">Sonexa is a music player application designed to provide users with an enjoyable music-listening experience. It focuses on a clean interface, music organization, playlist management, and lyrics integration.</p>
+          <p class="label">Key features</p>
+          <ul class="interests">
+            <li>Music playback functionality</li>
+            <li>Playlist management</li>
+            <li>Favourite songs collection</li>
+            <li>Lyrics integration using LRCLIB API</li>
+            <li>Interactive and user-friendly interface</li>
+          </ul>
+          <p class="label">Technologies</p>
+          <ul class="chips"><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>
+        </article>
+
+        <article class="project">
+          <p class="cat">Artificial Intelligence / SIH 2026</p>
+          <h3>WeatherGPT – AI Weather Assistant</h3>
+          <p class="desc">WeatherGPT is an AI-powered conversational weather assistant designed to make weather information more accessible through natural language interactions. It aims to provide weather forecasts, alerts, and climate-related information through an intelligent interface.</p>
+          <p class="label">Key features</p>
+          <ul class="interests">
+            <li>Conversational weather queries</li>
+            <li>Weather forecasting and alerts</li>
+            <li>Interactive weather map</li>
+            <li>Location-based weather information</li>
+            <li>Hindi and English language support</li>
+          </ul>
+          <p class="label">Technologies</p>
+          <ul class="chips"><li>React</li><li>Tailwind CSS</li><li>Node.js</li><li>Express.js</li><li>AI/LLM integration</li><li>Leaflet</li><li>OpenStreetMap</li></ul>
+        </article>
+
+        <article class="project">
+          <p class="cat">IoT / Embedded Systems</p>
+          <h3>Smart RC Car</h3>
+          <p class="desc">A smart remote-controlled car developed using ESP32 and electronic components. The project explores embedded programming, wireless communication, and hardware integration.</p>
+          <p class="label">Key features</p>
+          <ul class="interests">
+            <li>Wireless car control</li>
+            <li>ESP32-based control system</li>
+            <li>Ultrasonic obstacle detection</li>
+            <li>LED headlights and indicators</li>
+            <li>Buzzer-based alerts</li>
+          </ul>
+          <p class="label">Technologies</p>
+          <ul class="chips"><li>ESP32</li><li>Arduino IDE</li><li>C/C++</li><li>L298N Motor Driver</li><li>HC-SR04 Ultrasonic Sensor</li></ul>
+        </article>
+
+        <article class="project">
+          <p class="cat">Web Development</p>
+          <h3>MP4 to MP3 Converter</h3>
+          <p class="desc">A simple media conversion application designed to extract audio from video files. The application aims to provide an easy-to-use interface for converting MP4 videos into MP3 audio files.</p>
+          <p class="label">Key features</p>
+          <ul class="interests">
+            <li>Video file upload</li>
+            <li>Audio extraction</li>
+            <li>MP3 conversion</li>
+            <li>Simple user interface</li>
+            <li>Download converted audio</li>
+          </ul>
+          <p class="label">Technologies</p>
+          <ul class="chips"><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="block cta" id="contact">
+      <div class="cta-head">
+        <p class="kicker">Contact</p>
+        <h2>Let’s Connect!</h2>
+        <p class="cta-sub">Have an interesting project, an innovative idea, or an opportunity to collaborate? I’d love to hear from you. Whether it’s about software development, artificial intelligence, technology, or simply sharing ideas, feel free to get in touch.</p>
+      </div>
+      <div class="contact-card">
+        <div class="contact-info">
+          <p class="label">Primary contact</p>
+          <p class="email">namamigupta099@gmail.com</p>
+          <p class="contact-note">Let’s connect, collaborate, and create something meaningful together.</p>
+        </div>
+        <div class="contact-actions">
+          <a class="btn primary" href="mailto:namamigupta099@gmail.com">Email Me</a>
+          <a class="btn" href="https://www.linkedin.com/in/namami-gupta-b4818336a" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a class="btn" href="https://github.com/dexterMoss" target="_blank" rel="noopener noreferrer">GitHub</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p class="credit">Designed &amp; Developed by Namami Gupta</p>
+    <p>Turning Ideas into Code, and Code into Innovation.</p>
+    <p>© 2026 Namami Gupta. All Rights Reserved.</p>
+  </footer>
+</div>
+<script src="script.js" defer></script>
+</body>
+</html>
